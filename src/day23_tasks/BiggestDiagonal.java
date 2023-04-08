@@ -1,6 +1,4 @@
-package day_23;
-
-import java.util.Arrays;
+package day23_tasks;
 
 public class BiggestDiagonal {
 

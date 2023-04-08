@@ -1,4 +1,4 @@
-package day_23;
+package day23_tasks;
 
 public class Aws {
     public static void main(String[] args) {

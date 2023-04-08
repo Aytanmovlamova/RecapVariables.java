@@ -1,4 +1,4 @@
-package day_23;
+package day23_tasks;
 
 public class NumRange {
     //Create a class called NumRange in your Practice_Programming project and inside the day23_tasks package

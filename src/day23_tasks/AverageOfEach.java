@@ -1,4 +1,4 @@
-package day_23;
+package day23_tasks;
 
 import java.util.Arrays;
 

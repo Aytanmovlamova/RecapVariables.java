@@ -1,4 +1,4 @@
-package day_23;
+package day23_tasks;
 
 public class MultiplyArray {
     // Create a class called MultiplyArray in your Practice_Programming project and inside the day23_tasks package
