@@ -20,7 +20,7 @@ public class CurrencyConverter {
     //
     //				Output:
     //					91
-    /
+    //
     //			Ex:
     //				Input:
     //					yen, 50
@@ -63,5 +63,5 @@ public class CurrencyConverter {
 }
 
 
-    }
+
 
